@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет! Меня зовут Даниэль 👋
 
-<!--
-**Dan8764r6/Dan8764r6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 Я студент. Изучаю программирование и математику
 
-Here are some ideas to get you started:
+## 🤹 Мои навыки: 
+1. Знания некоторые языки программирования 
+2. Пониманию базовые алгоритмы 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Инструменты:
+1. VS Code 
+2. Terminal 
+3. Git 
+
+## 🎯 Мои цели: 
+1. Создать несколько учебных проектов
+2. Изучить фреймворк для разработки 
+
+
+## 📧 Мои контакты:
+1. Email: nasrtdinovdr2008@mail.ru 
+ 
+## Спасибо за визит на мой профиль! ☺️ ##
